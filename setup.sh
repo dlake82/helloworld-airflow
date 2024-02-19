@@ -3,7 +3,7 @@
 pip3 install --upgrade pip
 
 # set airflow environment
-python -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate
 
 # set airflow's version
